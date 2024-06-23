@@ -1,0 +1,5222 @@
+[
+    {
+        "image_id": "07d8114f-295e-4f87-9c45-103356923478",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_1_07d8114f-295e-4f87-9c45-103356923478",
+        "path_outs": 1,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "steelblue"
+            }
+        ]
+    },
+    {
+        "image_id": "cef1a686-df23-41cb-8ba0-d6d4230582ba",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_1_cef1a686-df23-41cb-8ba0-d6d4230582ba",
+        "path_outs": 1,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "steelblue"
+            }
+        ]
+    },
+    {
+        "image_id": "beba2c80-5e17-433e-a957-9ef749f90074",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_1_beba2c80-5e17-433e-a957-9ef749f90074",
+        "path_outs": 1,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "steelblue"
+            }
+        ]
+    },
+    {
+        "image_id": "feb230d1-ab0c-4600-b782-bd1a01191cbd",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_1_feb230d1-ab0c-4600-b782-bd1a01191cbd",
+        "path_outs": 1,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "steelblue"
+            }
+        ]
+    },
+    {
+        "image_id": "4c469076-64e1-4299-be4b-fbfb00a1a589",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_2_4c469076-64e1-4299-be4b-fbfb00a1a589",
+        "path_outs": 2,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "b502efc5-11ef-4159-8931-ba9efe080c5c",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_2_b502efc5-11ef-4159-8931-ba9efe080c5c",
+        "path_outs": 2,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "09052795-694e-4a96-b97f-50569704578a",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_2_09052795-694e-4a96-b97f-50569704578a",
+        "path_outs": 2,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "bc5c2783-d260-4e71-963e-853595964c74",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_2_bc5c2783-d260-4e71-963e-853595964c74",
+        "path_outs": 2,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "5a676633-6cf5-4710-ac5c-0d78d80d6343",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_3_5a676633-6cf5-4710-ac5c-0d78d80d6343",
+        "path_outs": 3,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "D",
+                "color": "darkorange"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "steelblue"
+            }
+        ]
+    },
+    {
+        "image_id": "3a766d74-2c5c-4ef2-82ba-c1eebc86d2b9",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_3_3a766d74-2c5c-4ef2-82ba-c1eebc86d2b9",
+        "path_outs": 3,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "D",
+                "color": "darkorange"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "steelblue"
+            }
+        ]
+    },
+    {
+        "image_id": "817d0636-243d-4f15-854b-a0f093d412c5",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_3_817d0636-243d-4f15-854b-a0f093d412c5",
+        "path_outs": 3,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "D",
+                "color": "darkorange"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "steelblue"
+            }
+        ]
+    },
+    {
+        "image_id": "e282e6ae-c935-43c8-97a1-1be973926698",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_3_e282e6ae-c935-43c8-97a1-1be973926698",
+        "path_outs": 3,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "D",
+                "color": "darkorange"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "steelblue"
+            }
+        ]
+    },
+    {
+        "image_id": "ebe087ba-bc1b-4856-ac33-9a55dd7d4177",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_1_ebe087ba-bc1b-4856-ac33-9a55dd7d4177",
+        "path_outs": 1,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "33a958bd-858c-4b03-a1cb-9aec141e2deb",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_1_33a958bd-858c-4b03-a1cb-9aec141e2deb",
+        "path_outs": 1,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "62091f30-4471-4165-9a4f-b74c9664744f",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_1_62091f30-4471-4165-9a4f-b74c9664744f",
+        "path_outs": 1,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "9437f4cb-f823-4f20-8359-e74622b45689",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_1_9437f4cb-f823-4f20-8359-e74622b45689",
+        "path_outs": 1,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "46348937-d07e-48d4-8296-8e254736faf3",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_2_46348937-d07e-48d4-8296-8e254736faf3",
+        "path_outs": 2,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "37188f55-ffa4-4da1-8e70-b15bfa400dc9",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_2_37188f55-ffa4-4da1-8e70-b15bfa400dc9",
+        "path_outs": 2,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "c4738c29-9b8d-4e08-96f8-f9ba6e22ce5d",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_2_c4738c29-9b8d-4e08-96f8-f9ba6e22ce5d",
+        "path_outs": 2,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "cfd61274-3d8e-4bfa-b71a-b6185dc209c6",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_2_cfd61274-3d8e-4bfa-b71a-b6185dc209c6",
+        "path_outs": 2,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "ffe47a15-53fd-4995-ac8e-c537e74cf02a",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_3_ffe47a15-53fd-4995-ac8e-c537e74cf02a",
+        "path_outs": 3,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "D",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "136530b6-28e5-47e1-ac40-cd998431f233",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_3_136530b6-28e5-47e1-ac40-cd998431f233",
+        "path_outs": 3,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "D",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "2983a529-8a38-49f7-b555-75539a32fc88",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_3_2983a529-8a38-49f7-b555-75539a32fc88",
+        "path_outs": 3,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "D",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "0e41283e-8a34-41c1-a702-7900dbddbbb2",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_3_0e41283e-8a34-41c1-a702-7900dbddbbb2",
+        "path_outs": 3,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "D",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "f61811fe-210c-4436-a68f-57891ad14b98",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_1_f61811fe-210c-4436-a68f-57891ad14b98",
+        "path_outs": 1,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "B",
+                "color": "sienna"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "steelblue"
+            }
+        ]
+    },
+    {
+        "image_id": "4bde93d6-5c5c-421c-9fe0-b3b7e155276f",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_1_4bde93d6-5c5c-421c-9fe0-b3b7e155276f",
+        "path_outs": 1,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "B",
+                "color": "sienna"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "steelblue"
+            }
+        ]
+    },
+    {
+        "image_id": "280f388d-27f0-4736-a5e7-c77377386a98",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_1_280f388d-27f0-4736-a5e7-c77377386a98",
+        "path_outs": 1,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "B",
+                "color": "sienna"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "steelblue"
+            }
+        ]
+    },
+    {
+        "image_id": "e94bd942-2e42-4ee2-835e-40497c659434",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_1_e94bd942-2e42-4ee2-835e-40497c659434",
+        "path_outs": 1,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "B",
+                "color": "sienna"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "steelblue"
+            }
+        ]
+    },
+    {
+        "image_id": "9140d3b4-5740-419c-bb68-d5815f7d26f8",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_2_9140d3b4-5740-419c-bb68-d5815f7d26f8",
+        "path_outs": 2,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "e12d964a-cdf0-4168-bc94-3b7d0f7f051f",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_2_e12d964a-cdf0-4168-bc94-3b7d0f7f051f",
+        "path_outs": 2,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "3cbf2e40-76c2-42c9-82d9-89aca27785d7",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_2_3cbf2e40-76c2-42c9-82d9-89aca27785d7",
+        "path_outs": 2,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "41a20dd8-ad91-4468-8e3a-879d2471efbc",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_2_41a20dd8-ad91-4468-8e3a-879d2471efbc",
+        "path_outs": 2,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "06761769-7c27-4ece-9cd3-51b8b6fc196c",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_3_06761769-7c27-4ece-9cd3-51b8b6fc196c",
+        "path_outs": 3,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "D",
+                "color": "crimson"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "46a4bdaf-2261-44e8-acd5-e2d6adaccdf4",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_3_46a4bdaf-2261-44e8-acd5-e2d6adaccdf4",
+        "path_outs": 3,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "D",
+                "color": "crimson"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "3729afe0-03d4-4b81-9574-dac3f5d65764",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_3_3729afe0-03d4-4b81-9574-dac3f5d65764",
+        "path_outs": 3,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "D",
+                "color": "crimson"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "b4b4d9ed-92cf-46bd-802f-dc0549e1b63e",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_3_b4b4d9ed-92cf-46bd-802f-dc0549e1b63e",
+        "path_outs": 3,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "D",
+                "color": "crimson"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "685b0fed-fb05-44b1-b1f0-f980abad4115",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_1_685b0fed-fb05-44b1-b1f0-f980abad4115",
+        "path_outs": 1,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "beccbdf6-b4fd-44bc-adaf-840821b4dd3c",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_1_beccbdf6-b4fd-44bc-adaf-840821b4dd3c",
+        "path_outs": 1,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "06533ed6-97dc-41a6-8aa0-4853eec8c0c5",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_1_06533ed6-97dc-41a6-8aa0-4853eec8c0c5",
+        "path_outs": 1,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "83826fb9-7efd-48eb-8bee-ec1f76b9179d",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_1_83826fb9-7efd-48eb-8bee-ec1f76b9179d",
+        "path_outs": 1,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "14ea4b82-49c5-40cb-8937-35ce24063e8e",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_2_14ea4b82-49c5-40cb-8937-35ce24063e8e",
+        "path_outs": 2,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "steelblue"
+            }
+        ]
+    },
+    {
+        "image_id": "728cfe72-23eb-48a3-b2c3-e1a4de17204e",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_2_728cfe72-23eb-48a3-b2c3-e1a4de17204e",
+        "path_outs": 2,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "steelblue"
+            }
+        ]
+    },
+    {
+        "image_id": "5ee3662d-c582-4c78-88eb-80031184d9a5",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_2_5ee3662d-c582-4c78-88eb-80031184d9a5",
+        "path_outs": 2,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "steelblue"
+            }
+        ]
+    },
+    {
+        "image_id": "0b7f3232-170e-471d-8d3e-23fe82efd2b4",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_2_0b7f3232-170e-471d-8d3e-23fe82efd2b4",
+        "path_outs": 2,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "steelblue"
+            }
+        ]
+    },
+    {
+        "image_id": "9d14c8d8-9821-486b-8da8-a362d8bda547",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_3_9d14c8d8-9821-486b-8da8-a362d8bda547",
+        "path_outs": 3,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "D",
+                "color": "crimson"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "steelblue"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "mediumpurple"
+            }
+        ]
+    },
+    {
+        "image_id": "96963438-0e39-438a-97ac-42659751101c",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_3_96963438-0e39-438a-97ac-42659751101c",
+        "path_outs": 3,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "D",
+                "color": "crimson"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "steelblue"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "mediumpurple"
+            }
+        ]
+    },
+    {
+        "image_id": "2fca4ec6-d3ac-42fc-9c58-3c560791642c",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_3_2fca4ec6-d3ac-42fc-9c58-3c560791642c",
+        "path_outs": 3,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "D",
+                "color": "crimson"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "steelblue"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "mediumpurple"
+            }
+        ]
+    },
+    {
+        "image_id": "f292739f-892e-4ff5-af24-0b624bf1b6c7",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_3_f292739f-892e-4ff5-af24-0b624bf1b6c7",
+        "path_outs": 3,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "D",
+                "color": "crimson"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "steelblue"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "mediumpurple"
+            }
+        ]
+    },
+    {
+        "image_id": "b85844cf-57fb-49d7-8cd4-2b061648fdb4",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_1_b85844cf-57fb-49d7-8cd4-2b061648fdb4",
+        "path_outs": 1,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            }
+        ]
+    },
+    {
+        "image_id": "5eb32b41-59cc-43bb-9e87-8e016982575c",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_1_5eb32b41-59cc-43bb-9e87-8e016982575c",
+        "path_outs": 1,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            }
+        ]
+    },
+    {
+        "image_id": "70a39e9e-d034-456a-b594-1789e02e5690",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_1_70a39e9e-d034-456a-b594-1789e02e5690",
+        "path_outs": 1,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            }
+        ]
+    },
+    {
+        "image_id": "73f443d0-8cdd-4c51-86c3-31cc7aa58b8e",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_1_73f443d0-8cdd-4c51-86c3-31cc7aa58b8e",
+        "path_outs": 1,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            }
+        ]
+    },
+    {
+        "image_id": "31319c5b-521b-4b28-b7a2-3194480271b5",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_2_31319c5b-521b-4b28-b7a2-3194480271b5",
+        "path_outs": 2,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "steelblue"
+            }
+        ]
+    },
+    {
+        "image_id": "972c2046-8927-46ab-9e72-e0d31ec231fe",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_2_972c2046-8927-46ab-9e72-e0d31ec231fe",
+        "path_outs": 2,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "steelblue"
+            }
+        ]
+    },
+    {
+        "image_id": "126fc5d9-908e-4102-bf93-c4e59c351ab8",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_2_126fc5d9-908e-4102-bf93-c4e59c351ab8",
+        "path_outs": 2,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "steelblue"
+            }
+        ]
+    },
+    {
+        "image_id": "892a9d0f-db8f-4b96-a88e-acebe563cc60",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_2_892a9d0f-db8f-4b96-a88e-acebe563cc60",
+        "path_outs": 2,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "steelblue"
+            }
+        ]
+    },
+    {
+        "image_id": "800e2327-76c2-48b3-8a2b-c78c45dbb15f",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_3_800e2327-76c2-48b3-8a2b-c78c45dbb15f",
+        "path_outs": 3,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "steelblue"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "A",
+                "end": "D",
+                "color": "sienna"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "crimson"
+            }
+        ]
+    },
+    {
+        "image_id": "ce6ff145-4f70-4efb-96a6-c03df55f7595",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_3_ce6ff145-4f70-4efb-96a6-c03df55f7595",
+        "path_outs": 3,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "steelblue"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "A",
+                "end": "D",
+                "color": "sienna"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "crimson"
+            }
+        ]
+    },
+    {
+        "image_id": "ee22bdaf-dffb-4a3a-ba80-73d65575d872",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_3_ee22bdaf-dffb-4a3a-ba80-73d65575d872",
+        "path_outs": 3,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "steelblue"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "A",
+                "end": "D",
+                "color": "sienna"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "crimson"
+            }
+        ]
+    },
+    {
+        "image_id": "204491cf-1efd-41f7-8071-b9774779b784",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_3_204491cf-1efd-41f7-8071-b9774779b784",
+        "path_outs": 3,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "steelblue"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "A",
+                "end": "D",
+                "color": "sienna"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "crimson"
+            }
+        ]
+    },
+    {
+        "image_id": "13e62170-e642-49f9-9d5c-8db87b27dff4",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_1_13e62170-e642-49f9-9d5c-8db87b27dff4",
+        "path_outs": 1,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "96d548d2-9b87-4c19-985c-08eb9fbdb6be",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_1_96d548d2-9b87-4c19-985c-08eb9fbdb6be",
+        "path_outs": 1,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "2b61c25e-7f18-44d9-b7fa-20948d022753",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_1_2b61c25e-7f18-44d9-b7fa-20948d022753",
+        "path_outs": 1,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "f0f665a6-2ae2-429b-83f9-64170df951af",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_1_f0f665a6-2ae2-429b-83f9-64170df951af",
+        "path_outs": 1,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "97592c8d-7d89-41e5-ba2f-f03bacd4bd21",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_2_97592c8d-7d89-41e5-ba2f-f03bacd4bd21",
+        "path_outs": 2,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "D",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "crimson"
+            }
+        ]
+    },
+    {
+        "image_id": "931b8867-3028-48fc-a81f-f417f9261d9d",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_2_931b8867-3028-48fc-a81f-f417f9261d9d",
+        "path_outs": 2,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "D",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "crimson"
+            }
+        ]
+    },
+    {
+        "image_id": "657eef56-36cf-44bb-90c6-51ecd45f3d82",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_2_657eef56-36cf-44bb-90c6-51ecd45f3d82",
+        "path_outs": 2,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "D",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "crimson"
+            }
+        ]
+    },
+    {
+        "image_id": "823fd720-2dd8-41fa-a797-30a608c4e1dc",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_2_823fd720-2dd8-41fa-a797-30a608c4e1dc",
+        "path_outs": 2,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "D",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "crimson"
+            }
+        ]
+    },
+    {
+        "image_id": "75a68717-c98b-4899-bc23-c14e630cfbb8",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_3_75a68717-c98b-4899-bc23-c14e630cfbb8",
+        "path_outs": 3,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "A",
+                "end": "B",
+                "color": "darkorange"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            }
+        ]
+    },
+    {
+        "image_id": "a5f80e65-c56b-4f73-855a-135d581e2a04",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_3_a5f80e65-c56b-4f73-855a-135d581e2a04",
+        "path_outs": 3,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "A",
+                "end": "B",
+                "color": "darkorange"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            }
+        ]
+    },
+    {
+        "image_id": "07847062-0a5b-40be-ad4c-fb8974747dc8",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_3_07847062-0a5b-40be-ad4c-fb8974747dc8",
+        "path_outs": 3,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "A",
+                "end": "B",
+                "color": "darkorange"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            }
+        ]
+    },
+    {
+        "image_id": "03c033b7-83c8-4cff-9886-3a933c47ec6f",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_3_03c033b7-83c8-4cff-9886-3a933c47ec6f",
+        "path_outs": 3,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "A",
+                "end": "B",
+                "color": "darkorange"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            }
+        ]
+    },
+    {
+        "image_id": "ad5ceb7f-61cc-407c-b187-86243e34441b",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_1_ad5ceb7f-61cc-407c-b187-86243e34441b",
+        "path_outs": 1,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "e851a144-b258-4905-a50f-eb148a72bb65",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_1_e851a144-b258-4905-a50f-eb148a72bb65",
+        "path_outs": 1,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "fcb155fc-7e10-4bd5-a9d4-b7cd0fecdbf4",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_1_fcb155fc-7e10-4bd5-a9d4-b7cd0fecdbf4",
+        "path_outs": 1,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "3bbf4544-1319-4a6b-94cb-4c587f82af1b",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_1_3bbf4544-1319-4a6b-94cb-4c587f82af1b",
+        "path_outs": 1,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "ac853acf-1e75-422b-8074-1d18a8f3c757",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_2_ac853acf-1e75-422b-8074-1d18a8f3c757",
+        "path_outs": 2,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "A",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "C",
+                "end": "D",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "41a53765-3314-41f5-a1f3-2ba9a642ea7c",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_2_41a53765-3314-41f5-a1f3-2ba9a642ea7c",
+        "path_outs": 2,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "A",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "C",
+                "end": "D",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "86897015-73d6-4163-a685-1b0deeaa4b54",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_2_86897015-73d6-4163-a685-1b0deeaa4b54",
+        "path_outs": 2,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "A",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "C",
+                "end": "D",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "b982336c-68f6-4fce-9f7b-81b789b7c60a",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_2_b982336c-68f6-4fce-9f7b-81b789b7c60a",
+        "path_outs": 2,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "A",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "C",
+                "end": "D",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "2c5c56f0-d2f9-4166-a957-eaa81f2405ca",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_3_2c5c56f0-d2f9-4166-a957-eaa81f2405ca",
+        "path_outs": 3,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "crimson"
+            },
+            {
+                "start": "A",
+                "end": "D",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "D",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "941abb65-fa92-45ac-9ecc-d155646cbbe6",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_3_941abb65-fa92-45ac-9ecc-d155646cbbe6",
+        "path_outs": 3,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "crimson"
+            },
+            {
+                "start": "A",
+                "end": "D",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "D",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "c06eac36-a4d1-405f-b445-9b9790b0366c",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_3_c06eac36-a4d1-405f-b445-9b9790b0366c",
+        "path_outs": 3,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "crimson"
+            },
+            {
+                "start": "A",
+                "end": "D",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "D",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "99712ea5-d896-471a-92d8-6430454ae9b9",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_3_99712ea5-d896-471a-92d8-6430454ae9b9",
+        "path_outs": 3,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "crimson"
+            },
+            {
+                "start": "A",
+                "end": "D",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "D",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "34d2ab43-59ff-4fb1-b561-64263d798451",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_1_34d2ab43-59ff-4fb1-b561-64263d798451",
+        "path_outs": 1,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "f652e28b-a428-4600-8a6a-d5577a3be20d",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_1_f652e28b-a428-4600-8a6a-d5577a3be20d",
+        "path_outs": 1,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "48dd399b-df35-4c6a-97fb-d6d29929458a",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_1_48dd399b-df35-4c6a-97fb-d6d29929458a",
+        "path_outs": 1,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "2649c8f2-1154-4e25-8b30-ac20178e14b9",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_1_2649c8f2-1154-4e25-8b30-ac20178e14b9",
+        "path_outs": 1,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "a3b2755c-c093-4e99-8222-d5e228996b47",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_2_a3b2755c-c093-4e99-8222-d5e228996b47",
+        "path_outs": 2,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "B",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "6c325595-d7fd-4d0c-9122-ca75b16ccd34",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_2_6c325595-d7fd-4d0c-9122-ca75b16ccd34",
+        "path_outs": 2,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "B",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "63a812aa-b5c6-4372-ace5-fc44fd0bc1b9",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_2_63a812aa-b5c6-4372-ace5-fc44fd0bc1b9",
+        "path_outs": 2,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "B",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "5738d080-6696-4060-b95e-c5c14d065696",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_2_5738d080-6696-4060-b95e-c5c14d065696",
+        "path_outs": 2,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "B",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "eb17953e-be0a-4b11-ab93-4c8ab8ce5aea",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_3_eb17953e-be0a-4b11-ab93-4c8ab8ce5aea",
+        "path_outs": 3,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "D",
+                "color": "darkorange"
+            },
+            {
+                "start": "A",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "4e354c66-6a54-455b-b926-7ece4a6e2e57",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_3_4e354c66-6a54-455b-b926-7ece4a6e2e57",
+        "path_outs": 3,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "D",
+                "color": "darkorange"
+            },
+            {
+                "start": "A",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "d4ccb549-d37c-4d3c-bb51-72af79b74fda",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_3_d4ccb549-d37c-4d3c-bb51-72af79b74fda",
+        "path_outs": 3,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "D",
+                "color": "darkorange"
+            },
+            {
+                "start": "A",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "a78385f1-caf8-487c-b3ab-598a4426a9cb",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_3_a78385f1-caf8-487c-b3ab-598a4426a9cb",
+        "path_outs": 3,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "D",
+                "color": "darkorange"
+            },
+            {
+                "start": "A",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "d89058ed-61a9-44ab-b339-f51ec9f2d834",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_1_d89058ed-61a9-44ab-b339-f51ec9f2d834",
+        "path_outs": 1,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "2c2d5df5-b1f5-432b-835a-4da8db54fd8f",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_1_2c2d5df5-b1f5-432b-835a-4da8db54fd8f",
+        "path_outs": 1,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "6674f683-192f-4921-af29-b1caa1c11c5e",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_1_6674f683-192f-4921-af29-b1caa1c11c5e",
+        "path_outs": 1,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "5e04c80e-f182-4688-af1c-b7a220c73495",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_1_5e04c80e-f182-4688-af1c-b7a220c73495",
+        "path_outs": 1,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "6b19f327-dfbb-4566-847b-465be2e66954",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_2_6b19f327-dfbb-4566-847b-465be2e66954",
+        "path_outs": 2,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "8c29c646-fbd9-4f16-9178-b825b9aa4851",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_2_8c29c646-fbd9-4f16-9178-b825b9aa4851",
+        "path_outs": 2,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "6e710f56-072e-4078-9915-9122eadf523d",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_2_6e710f56-072e-4078-9915-9122eadf523d",
+        "path_outs": 2,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "da8bcc48-29d1-441f-a7d7-f136dd9bb076",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_2_da8bcc48-29d1-441f-a7d7-f136dd9bb076",
+        "path_outs": 2,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "4676162c-09a5-4bec-83ff-50b84cc42c28",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_3_4676162c-09a5-4bec-83ff-50b84cc42c28",
+        "path_outs": 3,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "D",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "steelblue"
+            }
+        ]
+    },
+    {
+        "image_id": "86f7d918-db10-450a-8600-600e0f3eb474",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_3_86f7d918-db10-450a-8600-600e0f3eb474",
+        "path_outs": 3,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "D",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "steelblue"
+            }
+        ]
+    },
+    {
+        "image_id": "28cce8a2-e8cf-4cc3-a094-5ebae5e3823e",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_3_28cce8a2-e8cf-4cc3-a094-5ebae5e3823e",
+        "path_outs": 3,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "D",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "steelblue"
+            }
+        ]
+    },
+    {
+        "image_id": "69c0fd65-22b2-48e9-8d45-78312e155bf9",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_3_69c0fd65-22b2-48e9-8d45-78312e155bf9",
+        "path_outs": 3,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "D",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "steelblue"
+            }
+        ]
+    },
+    {
+        "image_id": "1f1d2181-5a40-43b0-8c38-d965b5ec74b6",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_1_1f1d2181-5a40-43b0-8c38-d965b5ec74b6",
+        "path_outs": 1,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            }
+        ]
+    },
+    {
+        "image_id": "7a613a1b-ed19-4276-8beb-d5dc90327e35",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_1_7a613a1b-ed19-4276-8beb-d5dc90327e35",
+        "path_outs": 1,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            }
+        ]
+    },
+    {
+        "image_id": "ff268812-abab-471c-b4aa-48a86ea8d3be",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_1_ff268812-abab-471c-b4aa-48a86ea8d3be",
+        "path_outs": 1,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            }
+        ]
+    },
+    {
+        "image_id": "f6b616de-a395-49d1-8538-2307c2406fdd",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_1_f6b616de-a395-49d1-8538-2307c2406fdd",
+        "path_outs": 1,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            }
+        ]
+    },
+    {
+        "image_id": "0650aa17-b4b7-42c9-95eb-57e8d7f75105",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_2_0650aa17-b4b7-42c9-95eb-57e8d7f75105",
+        "path_outs": 2,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "78034e13-e4b1-42ea-8397-1d6928927a61",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_2_78034e13-e4b1-42ea-8397-1d6928927a61",
+        "path_outs": 2,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "f7229700-5885-42c3-abf2-bc63b3ee17b0",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_2_f7229700-5885-42c3-abf2-bc63b3ee17b0",
+        "path_outs": 2,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "b9f98f9e-8d20-4657-b20e-ab6563ea2cdd",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_2_b9f98f9e-8d20-4657-b20e-ab6563ea2cdd",
+        "path_outs": 2,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "f771ccd3-1f2e-4e52-be5f-03c44e5114f6",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_3_f771ccd3-1f2e-4e52-be5f-03c44e5114f6",
+        "path_outs": 3,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "D",
+                "color": "crimson"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "ac67582c-f2ec-4664-89f7-f8e8f5835f8c",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_3_ac67582c-f2ec-4664-89f7-f8e8f5835f8c",
+        "path_outs": 3,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "D",
+                "color": "crimson"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "39991582-be0d-45f0-ad9b-2a4104c3ff54",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_3_39991582-be0d-45f0-ad9b-2a4104c3ff54",
+        "path_outs": 3,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "D",
+                "color": "crimson"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "79870125-c92a-4780-81b3-aab8f8d7c4c6",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_3_79870125-c92a-4780-81b3-aab8f8d7c4c6",
+        "path_outs": 3,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "D",
+                "color": "crimson"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "2dfcc4cf-dee9-4efe-af88-b08e305b6f07",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_1_2dfcc4cf-dee9-4efe-af88-b08e305b6f07",
+        "path_outs": 1,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "954ede23-03a3-485e-8976-1b96206ccdca",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_1_954ede23-03a3-485e-8976-1b96206ccdca",
+        "path_outs": 1,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "d139a573-193f-4260-bd9a-652e0acde211",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_1_d139a573-193f-4260-bd9a-652e0acde211",
+        "path_outs": 1,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "52d3e904-3fc4-4571-ba9e-5f6d9b34646b",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_1_52d3e904-3fc4-4571-ba9e-5f6d9b34646b",
+        "path_outs": 1,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "dbae10f5-a5ce-4c61-bf5b-40430f588dba",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_2_dbae10f5-a5ce-4c61-bf5b-40430f588dba",
+        "path_outs": 2,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "steelblue"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "29a96fb4-db36-493e-8d30-b2b2d7a8f956",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_2_29a96fb4-db36-493e-8d30-b2b2d7a8f956",
+        "path_outs": 2,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "steelblue"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "358941b9-775b-46be-9bb8-59a3af383ff8",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_2_358941b9-775b-46be-9bb8-59a3af383ff8",
+        "path_outs": 2,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "steelblue"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "5f959113-d6fe-447a-a480-953fd66c26f9",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_2_5f959113-d6fe-447a-a480-953fd66c26f9",
+        "path_outs": 2,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "steelblue"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "9a7c62b3-662c-453d-94c1-d9793e7dc66e",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_3_9a7c62b3-662c-453d-94c1-d9793e7dc66e",
+        "path_outs": 3,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "crimson"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "mediumpurple"
+            }
+        ]
+    },
+    {
+        "image_id": "5ec27212-63a7-400a-b7e6-8c64564a8244",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_3_5ec27212-63a7-400a-b7e6-8c64564a8244",
+        "path_outs": 3,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "crimson"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "mediumpurple"
+            }
+        ]
+    },
+    {
+        "image_id": "ee584b06-c861-4d32-b07e-7fbe047bbbd6",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_3_ee584b06-c861-4d32-b07e-7fbe047bbbd6",
+        "path_outs": 3,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "crimson"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "mediumpurple"
+            }
+        ]
+    },
+    {
+        "image_id": "6e7fed3d-368a-447b-8106-9f1e02d30d62",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_3_6e7fed3d-368a-447b-8106-9f1e02d30d62",
+        "path_outs": 3,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "crimson"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "mediumpurple"
+            }
+        ]
+    },
+    {
+        "image_id": "d870e4f3-6f25-4da1-924e-7b96ab9d1622",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_1_d870e4f3-6f25-4da1-924e-7b96ab9d1622",
+        "path_outs": 1,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "48a8ba74-0cb4-4263-9939-1ace40369475",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_1_48a8ba74-0cb4-4263-9939-1ace40369475",
+        "path_outs": 1,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "7c701bc0-f6aa-4b30-872a-cf1748e6ad68",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_1_7c701bc0-f6aa-4b30-872a-cf1748e6ad68",
+        "path_outs": 1,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "f630ed89-a9f9-4b4b-a3da-221ec6d9113e",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_1_f630ed89-a9f9-4b4b-a3da-221ec6d9113e",
+        "path_outs": 1,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "265e1290-6aca-4205-b634-4ab69b24f600",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_2_265e1290-6aca-4205-b634-4ab69b24f600",
+        "path_outs": 2,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "4074fa6c-47f8-472c-a4fd-831a34d7db7a",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_2_4074fa6c-47f8-472c-a4fd-831a34d7db7a",
+        "path_outs": 2,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "c117303b-751f-47a4-94d9-0ae5ebd06d16",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_2_c117303b-751f-47a4-94d9-0ae5ebd06d16",
+        "path_outs": 2,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "1085363c-7cf6-4690-8978-2039be082ef0",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_2_1085363c-7cf6-4690-8978-2039be082ef0",
+        "path_outs": 2,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "f92877b0-b6f4-4db6-aa6f-dc531fbff1e3",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_3_f92877b0-b6f4-4db6-aa6f-dc531fbff1e3",
+        "path_outs": 3,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "D",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "e5a979dc-0fcf-4502-88a9-834904d3df9f",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_3_e5a979dc-0fcf-4502-88a9-834904d3df9f",
+        "path_outs": 3,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "D",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "add2b90a-4d42-4368-821f-f3ab6550286b",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_3_add2b90a-4d42-4368-821f-f3ab6550286b",
+        "path_outs": 3,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "D",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "22e69264-4e8a-42ba-b7d1-b2ae878c89ee",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_3_22e69264-4e8a-42ba-b7d1-b2ae878c89ee",
+        "path_outs": 3,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "D",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "921cbd8a-9833-433a-9104-9b568bf10ac7",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_1_921cbd8a-9833-433a-9104-9b568bf10ac7",
+        "path_outs": 1,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "8aa774ab-55ad-43e5-810d-8ce78fdaa8fd",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_1_8aa774ab-55ad-43e5-810d-8ce78fdaa8fd",
+        "path_outs": 1,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "e545b3c9-3fc2-4b4d-8b02-d2ffc81de157",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_1_e545b3c9-3fc2-4b4d-8b02-d2ffc81de157",
+        "path_outs": 1,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "5f17eb70-011c-4539-9a3c-5f68be04fff4",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_1_5f17eb70-011c-4539-9a3c-5f68be04fff4",
+        "path_outs": 1,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "7073b776-4380-48bf-bf76-c8fb08cb92c3",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_2_7073b776-4380-48bf-bf76-c8fb08cb92c3",
+        "path_outs": 2,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "9a85ecc7-650e-4b7e-9323-acfc007edfb1",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_2_9a85ecc7-650e-4b7e-9323-acfc007edfb1",
+        "path_outs": 2,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "60b074cf-f647-4ce4-9fad-4160b116e63e",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_2_60b074cf-f647-4ce4-9fad-4160b116e63e",
+        "path_outs": 2,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "13579053-67bb-4214-9047-ec33262e077d",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_2_13579053-67bb-4214-9047-ec33262e077d",
+        "path_outs": 2,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "e71f728c-1c00-48a0-943d-372c4ac38083",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_3_e71f728c-1c00-48a0-943d-372c4ac38083",
+        "path_outs": 3,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "D",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "A",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "a83b79eb-dd20-4f78-983d-6d86128759a7",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_3_a83b79eb-dd20-4f78-983d-6d86128759a7",
+        "path_outs": 3,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "D",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "A",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "232fd6d0-3364-48a7-a61d-34b6dba1f5eb",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_3_232fd6d0-3364-48a7-a61d-34b6dba1f5eb",
+        "path_outs": 3,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "D",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "A",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "fd9f46d5-7a76-428c-aba8-7f3b79043eb3",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_3_fd9f46d5-7a76-428c-aba8-7f3b79043eb3",
+        "path_outs": 3,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "D",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "A",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "6a5ebb61-f681-441b-8193-3864d82a205d",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_1_6a5ebb61-f681-441b-8193-3864d82a205d",
+        "path_outs": 1,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "f6016074-2d79-4aa9-af35-223882ca9bd6",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_1_f6016074-2d79-4aa9-af35-223882ca9bd6",
+        "path_outs": 1,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "84f2920d-1f8a-4134-b24a-677689547b20",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_1_84f2920d-1f8a-4134-b24a-677689547b20",
+        "path_outs": 1,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "65437b30-5113-4943-a78e-ee20a0e1fca2",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_1_65437b30-5113-4943-a78e-ee20a0e1fca2",
+        "path_outs": 1,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "f1eb7ea8-0c46-431b-89c4-e7c2fdfb03fa",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_2_f1eb7ea8-0c46-431b-89c4-e7c2fdfb03fa",
+        "path_outs": 2,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "173cebf5-d057-4c6b-b55b-d2e45da9c1ca",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_2_173cebf5-d057-4c6b-b55b-d2e45da9c1ca",
+        "path_outs": 2,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "a136afc7-9e4d-4bb7-a331-987361ea3113",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_2_a136afc7-9e4d-4bb7-a331-987361ea3113",
+        "path_outs": 2,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "7be314de-1995-46fb-b837-116622562857",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_2_7be314de-1995-46fb-b837-116622562857",
+        "path_outs": 2,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            }
+        ]
+    },
+    {
+        "image_id": "2c25f1a0-b636-4974-b944-b71836dc51b0",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_3_2c25f1a0-b636-4974-b944-b71836dc51b0",
+        "path_outs": 3,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "D",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "crimson"
+            },
+            {
+                "start": "A",
+                "end": "D",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "4ee47289-c9d5-4f2d-8f0a-d78f922547a9",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_3_4ee47289-c9d5-4f2d-8f0a-d78f922547a9",
+        "path_outs": 3,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "D",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "crimson"
+            },
+            {
+                "start": "A",
+                "end": "D",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "894ce5eb-f9bc-487b-86d1-86c9e37ac714",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_3_894ce5eb-f9bc-487b-86d1-86c9e37ac714",
+        "path_outs": 3,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "D",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "crimson"
+            },
+            {
+                "start": "A",
+                "end": "D",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "154fba84-1260-4c9e-9cff-3746d24b357a",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_3_154fba84-1260-4c9e-9cff-3746d24b357a",
+        "path_outs": 3,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "D",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "crimson"
+            },
+            {
+                "start": "A",
+                "end": "D",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "darkorange"
+            }
+        ]
+    },
+    {
+        "image_id": "ad247158-9da0-455a-92fc-a0ae58205592",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_1_ad247158-9da0-455a-92fc-a0ae58205592",
+        "path_outs": 1,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "D",
+                "color": "crimson"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "steelblue"
+            }
+        ]
+    },
+    {
+        "image_id": "e5198d80-d54f-4957-9ca9-c76a3a0bf654",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_1_e5198d80-d54f-4957-9ca9-c76a3a0bf654",
+        "path_outs": 1,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "D",
+                "color": "crimson"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "steelblue"
+            }
+        ]
+    },
+    {
+        "image_id": "9d3dd747-60f9-469f-a25b-66755fec568f",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_1_9d3dd747-60f9-469f-a25b-66755fec568f",
+        "path_outs": 1,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "D",
+                "color": "crimson"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "steelblue"
+            }
+        ]
+    },
+    {
+        "image_id": "bdd4340e-d026-4d2a-a5a6-888a35158308",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_1_bdd4340e-d026-4d2a-a5a6-888a35158308",
+        "path_outs": 1,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "D",
+                "color": "crimson"
+            },
+            {
+                "start": "C",
+                "end": "B",
+                "color": "steelblue"
+            }
+        ]
+    },
+    {
+        "image_id": "fbd2cf29-6255-42b5-a46f-85086c6e29ff",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_2_fbd2cf29-6255-42b5-a46f-85086c6e29ff",
+        "path_outs": 2,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "B",
+                "color": "darkorange"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "crimson"
+            }
+        ]
+    },
+    {
+        "image_id": "1581d3ca-ffb5-4422-be36-37ac64308514",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_2_1581d3ca-ffb5-4422-be36-37ac64308514",
+        "path_outs": 2,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "B",
+                "color": "darkorange"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "crimson"
+            }
+        ]
+    },
+    {
+        "image_id": "baf2054a-0188-467d-94c9-2af33394b63f",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_2_baf2054a-0188-467d-94c9-2af33394b63f",
+        "path_outs": 2,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "B",
+                "color": "darkorange"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "crimson"
+            }
+        ]
+    },
+    {
+        "image_id": "7ff1cfb0-7ae0-4793-bbb3-0c934376b0b3",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_2_7ff1cfb0-7ae0-4793-bbb3-0c934376b0b3",
+        "path_outs": 2,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "sienna"
+            },
+            {
+                "start": "A",
+                "end": "B",
+                "color": "darkorange"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "C",
+                "color": "crimson"
+            }
+        ]
+    },
+    {
+        "image_id": "65d8505b-f854-4cef-b13a-d6bd7901f2e5",
+        "linewidth": 10,
+        "name": "pixels_512_linewidth_10_path_3_65d8505b-f854-4cef-b13a-d6bd7901f2e5",
+        "path_outs": 3,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "d9f3c987-40b4-426f-af85-f5d705b3f082",
+        "linewidth": 20,
+        "name": "pixels_512_linewidth_20_path_3_d9f3c987-40b4-426f-af85-f5d705b3f082",
+        "path_outs": 3,
+        "size": 512,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "2b320b26-8b0f-4116-84e5-d98c7a69b415",
+        "linewidth": 10,
+        "name": "pixels_1024_linewidth_10_path_3_2b320b26-8b0f-4116-84e5-d98c7a69b415",
+        "path_outs": 3,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            }
+        ]
+    },
+    {
+        "image_id": "78e036bf-3dfd-452d-a5d0-dc2a7ed55a8a",
+        "linewidth": 20,
+        "name": "pixels_1024_linewidth_20_path_3_78e036bf-3dfd-452d-a5d0-dc2a7ed55a8a",
+        "path_outs": 3,
+        "size": 1024,
+        "connections": [
+            {
+                "start": "A",
+                "end": "C",
+                "color": "darkorange"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "mediumpurple"
+            },
+            {
+                "start": "A",
+                "end": "C",
+                "color": "crimson"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "steelblue"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "forestgreen"
+            },
+            {
+                "start": "D",
+                "end": "B",
+                "color": "sienna"
+            }
+        ]
+    }
+]
